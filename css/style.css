@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Sabina";
-    src:url('../font/20451.ttf');
+    src:url('../font/20470.ttf');
 }
 
 
@@ -20,7 +20,7 @@ body {
 header{
     padding: 60px;
     text-align: center;
-    background-color: hotpink;
+    background-image: url(i.webp);
     color: #fff;
 }
 
